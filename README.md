@@ -1,2 +1,2 @@
-**# NucleusTeq Assignments Repository**
+# NucleusTeq Assignments Repository
 
